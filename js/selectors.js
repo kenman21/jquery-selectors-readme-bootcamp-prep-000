@@ -17,7 +17,7 @@ function divSelector() {
 }
 
 function firstListItem() {
-  $('parent-tag child-tag:first-child')
+  $('parent-tag child-tag:first-child')$('ul li')$('#pic-list')
   $('ul li')
   $('#pic-list')
 }
